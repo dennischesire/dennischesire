@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Real estate project for partners investment
+- 🌱 I’m currently learning machine learning models and deep learning
 - 👯 I’m looking to collaborate on data science projects, predictive analytics, and dashboard development (Plotly/Dash/Tableau)
 - 🤔 I’m looking for help with deploying machine learning models and building scalable web apps for analytics
 - 💬 Ask me about data analysis, visualization techniques, and regression modeling
