@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, it's Dennis👋
 
 
 **dennischesire/dennischesire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
